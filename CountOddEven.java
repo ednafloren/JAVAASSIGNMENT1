@@ -1,4 +1,4 @@
-public class countoddeven {
+public class CountOddEven {
     public static void main(String[]Args) {
      int num=3456789,evencount=0,oddcount=0;
      while(num>0)
